@@ -7,6 +7,7 @@
   <servlet>
     <servlet-name>mylet</servlet-name>
     <servlet-class>mylet</servlet-class>
+    <load-on-startup>0</load-on-startup> 
   </servlet>
 
   <servlet-mapping>
